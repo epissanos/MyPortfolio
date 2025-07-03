@@ -43,7 +43,6 @@ aws-s3-static-website/
   ]
 }
 
----
 
 ## 📄 index.html (Main Page Source)
 

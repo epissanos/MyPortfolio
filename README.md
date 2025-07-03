@@ -29,8 +29,9 @@ aws-s3-static-website/
 1. Create an **S3 bucket** and enable static website hosting  
 2. Unblock public access and attach this **bucket policy**:
 
+---
 
-🧠 What I Learned
+## 🧠 What I Learned
 How to use S3 static website hosting
 
 How to configure IAM bucket policies for public access

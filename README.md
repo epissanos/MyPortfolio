@@ -44,8 +44,6 @@ aws-s3-static-website/
 }
 
 
----
-
 ## 🧠 What I Learned
 How to use S3 static website hosting
 

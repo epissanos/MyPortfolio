@@ -29,24 +29,6 @@ aws-s3-static-website/
 1. Create an **S3 bucket** and enable static website hosting  
 2. Unblock public access and attach this **bucket policy**:
 
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Sid": "PublicReadGetObject",
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::evangelia-my-portfolio/*"
-    }
-  ]
-}
-
-## 📄 index.html (Main Page Source)
-
-The full HTML source code is available in this repo:  
-▶️ [`index.html`](./index.html)
 
 🧠 What I Learned
 How to use S3 static website hosting

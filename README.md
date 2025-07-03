@@ -45,8 +45,9 @@ aws-s3-static-website/
 
 ---
 
-📄 index.html (Main Page Source)
+## 📄 index.html (Main Page Source)
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,21 +77,7 @@ aws-s3-static-website/
   </style>
 </head>
 <body>
-  <h1>Hello, I'm Evangelia</h1>
-  <p>Aspiring AWS Solutions Architect | AWS Certified Cloud Practitioner</p>
-
-  <!-- 🎖️ AWS Badge Embed -->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ae8c4d9a-3547-4e70-ae46-808588a774a1" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-  <p>Check out my projects and certifications below:</p>
-  <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/epissanos/MyPortfolio" target="_blank">GitHub Portfolio</a></li>
-    <li><a href="mailto:epissanos@outlook.com">Email Me</a></li>
-    <li><a href="http://linkedin.com/in/evangelia-pissanos-758b17367" target="_blank">LinkedIn Profile</a></li>
-  </ul>
-
-  <p>More AWS projects coming soon. Stay tuned!</p>
+  <!-- Page content here -->
 </body>
 </html>
 

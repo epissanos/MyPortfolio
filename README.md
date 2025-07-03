@@ -29,7 +29,7 @@ aws-s3-static-website/
 1. Create an **S3 bucket** and enable static website hosting  
 2. Unblock public access and attach this **bucket policy**:
 
-   ```json
+```json
 {
   "Version": "2012-10-17",
   "Statement": [
@@ -42,6 +42,7 @@ aws-s3-static-website/
     }
   ]
 }
+
 
 ---
 

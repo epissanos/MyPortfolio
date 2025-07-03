@@ -24,6 +24,16 @@ aws-s3-static-website/
 
 ---
 
+## 🧠 What I Learned
+How to use S3 static website hosting
+
+How to configure IAM bucket policies for public access
+
+How to deploy a live portfolio project using only AWS services
+
+
+---
+
 ## 🛠️ Deployment Steps
 
 1. Create an **S3 bucket** and enable static website hosting  
@@ -44,12 +54,6 @@ aws-s3-static-website/
 }
 
 
-## 🧠 What I Learned
-How to use S3 static website hosting
-
-How to configure IAM bucket policies for public access
-
-How to deploy a live portfolio project using only AWS services
 
 
 
